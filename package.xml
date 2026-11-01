@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>FreeCAD-PDM</name>
+  <description>Distributed Open Source PDM/PLM Workbench for FreeCAD</description>
+  <version>0.1.0</version>
+  <date>2026-10-04</date>
+  <maintainer email="dev@example.org">FreeCAD-PDM Team</maintainer>
+  <license file="LICENSE">LGPL-2.1-or-later</license>
+  <url type="repository" branch="main">https://github.com/example/FreeCAD-PDM</url>
+  <icon>Resources/icons/pdm_workbench.svg</icon>
+  <dependencies>
+    <freecad min="0.21.0" />
+    <python min="3.8" />
+  </dependencies>
+  <content>
+    <workbench>
+      <classname>PDMWorkbench</classname>
+      <subdirectory>./</subdirectory>
+      <icon>Resources/icons/pdm_workbench.svg</icon>
+    </workbench>
+  </content>
+</package>
