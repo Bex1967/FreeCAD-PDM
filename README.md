@@ -4,6 +4,8 @@ A distributed, lightweight, and open-source **Product Data Management (PDM) / Pr
 
 FreeCAD-PDM brings file versioning, document lifecycle states, Bill of Materials (BOM) generation, and collaborative revision tracking directly into FreeCAD through both a native PySide GUI and a headless Command Line Interface (CLI).
 
+<img width="2720" height="1626" alt="image" src="https://github.com/user-attachments/assets/453506ad-bc48-4c61-8a3a-c729afaba212" />
+
 ---
 
 ## Features
