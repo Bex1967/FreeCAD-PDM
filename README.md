@@ -1,6 +1,4 @@
 # FreeCAD-PDM
-A simple PDM with check-in and check-out feature
-# FreeCAD-PDM
 
 A distributed, lightweight, and open-source **Product Data Management (PDM) / Product Lifecycle Management (PLM)** workbench for **FreeCAD** (0.21+ / 1.1.0+).
 
